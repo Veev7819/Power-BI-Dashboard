@@ -3,10 +3,10 @@
 ## Dashboard Pages
 
 ### Sales Dashboard
-![Sales Dashboard](/Sales_dashboard_PNG/sales.png?raw=1)
+![Sales Dashboard](/Sales_Dashboard/Sales_dashboard_PNG/sales.png?raw=1)
 
 ### Demography Dashboard
-![Demography Dashboard](/Sales_dashboard_PNG/demography.png?raw=1)
+![Demography Dashboard](/Sales_Dashboard/Sales_dashboard_PNG/demography.png?raw=1)
 
 ##  Overview
 This Power BI dashboard analyzes sales performance across regions, products, and time.
