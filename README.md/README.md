@@ -1,46 +1,24 @@
-# Power BI Sales Performance Dashboard
+## Power BI Dashboard Portfolio
+### Overview
 
-## Dashboard Pages
+This repository contains a collection of Power BI dashboards built to analyze real-world business problems using data visualization, data modeling, and DAX.
 
-### Sales Dashboard
-![Sales Dashboard](/Sales_dashboard_PNG/sales.png?raw=1)
+Each project focuses on turning raw data into actionable insights for decision-makers across sales, marketing, and customer analytics.
 
-### Demography Dashboard
-![Demography Dashboard](/Sales_dashboard_PNG/demography.png?raw=1)
+### Dashboards
+### 1. Sales Performance Dashboard
 
-##  Overview
-This Power BI dashboard analyzes sales performance across regions, products, and time.
-It enables stakeholders to quickly identify trends, growth opportunities, and underperforming segments.
+Objective:
+Analyze sales trends, regional performance, product profitability, and customer demographics.
 
-##  Key Insights
-- Sales trends over time
-- Top performing products and regions
-- Customer segmentation analysis
-- KPI tracking with dynamic filters
+Key Insights:
+Revenue and profit trends over time
+Top and bottom performing products and regions
+Customer demographic breakdown
+KPI tracking with interactive filters
 
-## Data
-- Source: Public dataset
-- Rows: 2,013
-- Features include: Date, Location, Product, Sales, Profit, Customer segment
+Skills & Tools:
+Power BI · DAX · Time Intelligence · Data Modeling · Interactive Slicers
 
-## Tools & Techniques
-- Power BI Desktop
-- DAX (measures, time intelligence)
-- Data modeling (star schema)
-- Interactive slicers and drill-through
-
-## Files
-- `sales_dashboard.pbix` – Main Power BI report
-- `Sales_dashboard_PNG/Screenshots` – Static export
-- `Sales datasets` – Source dataset
-
-## How to Open
-1. Install Power BI Desktop
-2. Download the repo
-3. Open `sales_dashboard.pbix`
-4. Refresh data if needed
-
-## Use Cases
-- Executive reporting
-- Sales performance monitoring
-- Business decision support
+### Project Folder:
+➡️ Sales_Dashboard/
