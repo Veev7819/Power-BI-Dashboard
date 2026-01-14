@@ -20,7 +20,7 @@ It enables stakeholders to quickly identify trends, growth opportunities, and un
 
 ## Data
 - Source: Public dataset
-- Rows: 2,013
+- Rows: 2,012
 - Features include: Date, Location, Product, Sales, Profit, Customer segment
 
 ## Tools & Techniques
@@ -44,3 +44,9 @@ It enables stakeholders to quickly identify trends, growth opportunities, and un
 - Executive reporting
 - Sales performance monitoring
 - Business decision support
+
+
+### Author
+
+Vivian Orekunrin-Gold
+Data Scientist | Analytics & BI
