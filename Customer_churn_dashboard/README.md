@@ -3,7 +3,7 @@
 ## Dashboard Pages
 
 ### Customer Churn Dashboard
-![Overview](/Customer_churn_Dashboard/Churn_PNG/Overview.png?raw=1)
+![Overview](/Customer_churn_dashboard/Churn_PNG/Overview.png?raw=1)
 
 
 ##  Overview
