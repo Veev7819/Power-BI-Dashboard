@@ -20,6 +20,12 @@ KPI tracking with interactive filters
 Skills & Tools:
 Power BI · DAX · Time Intelligence · Data Modeling · Interactive Slicers
 
+### 2. Customer Churn Dashboard
+To monitor customer churn and identify key drivers, high-risk segments, and geographic patterns in order to support data-driven retention decisions.
+
+Key Insights:
+Customer churn is driven primarily by competitive pressure, contract structure, early customer tenure, underutilized plans, and notable geographic variation.
+
 ### Project Folder:
 ➡️ Sales_Dashboard/
 ➡️ Customer_churn_Dashboard/
